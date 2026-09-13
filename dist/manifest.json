@@ -2,11 +2,11 @@
   "name": "Adedotun Babatunde Ayomide - Network Engineer & Security Specialist",
   "short_name": "Adedotun Babatunde",
   "description": "Network Engineer | Network Security Engineer | Full-Stack Developer. Building secure, scalable and intelligent digital systems.",
-  "start_url": "https://adedotun.dev",
+  "start_url": "https://adedotun.online",
   "display": "standalone",
   "background_color": "#050505",
   "theme_color": "#D4AF37",
-  "scope": "https://adedotun.dev",
+  "scope": "https://adedotun.online",
   "orientation": "portrait-primary",
   "icons": [
     {
