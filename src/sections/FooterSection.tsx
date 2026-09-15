@@ -25,7 +25,6 @@ export function FooterSection() {
               <div className="w-8 h-8 rounded-lg bg-gold flex items-center justify-center">
                 <span className="text-void font-bold font-heading text-sm">AB</span>
               </div>
-              <span className="text-platinum font-heading font-semibold">.dev</span>
             </div>
             <p className="text-sm text-platinum/60">
               {personalInfo.title}

@@ -58,9 +58,6 @@ export function Navigation() {
               <div className="w-10 h-10 rounded-lg bg-gold flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                 <span className="text-void font-bold font-heading text-lg">AB</span>
               </div>
-              <span className="text-platinum font-heading font-semibold text-lg hidden sm:block">
-                .dev
-              </span>
             </a>
 
             {/* Desktop Navigation */}
