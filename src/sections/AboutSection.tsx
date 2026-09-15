@@ -134,7 +134,7 @@ export function AboutSection() {
               
               <div className="space-y-4 text-platinum/80 leading-relaxed">
                 <p>
-                  I am a Nigeria-based Network Engineer and Security specialist with a strong foundation 
+                  I am a UK-based Network Engineer and Security specialist with a strong foundation 
                   in enterprise networking, cybersecurity infrastructure, and full-stack development. My 
                   career trajectory is focused on becoming an elite network and security engineer, building 
                   resilient, secure digital systems from infrastructure to application layers.
