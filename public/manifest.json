@@ -1,0 +1,49 @@
+{
+  "name": "Adedotun Babatunde Ayomide - Network Engineer & Security Specialist",
+  "short_name": "Adedotun Babatunde",
+  "description": "Network Engineer | Network Security Engineer | Full-Stack Developer. Building secure, scalable and intelligent digital systems.",
+  "start_url": "https://adedotun.dev",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#D4AF37",
+  "scope": "https://adedotun.dev",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["technology", "professional services"],
+  "screenshots": [
+    {
+      "src": "/images/portfolio-screenshot.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portfolio",
+      "short_name": "Portfolio",
+      "description": "View my portfolio and projects",
+      "url": "/",
+      "icons": [{ "src": "/favicon.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Contact",
+      "short_name": "Contact",
+      "description": "Get in touch",
+      "url": "/#contact",
+      "icons": [{ "src": "/favicon.png", "sizes": "192x192" }]
+    }
+  ]
+}
